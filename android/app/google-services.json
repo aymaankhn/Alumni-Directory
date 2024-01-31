@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621922091707",
+    "project_id": "fir-gradlink",
+    "storage_bucket": "fir-gradlink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621922091707:android:b6748e73b694ef46a59f9e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpT0RBpzUgyvXHgvY1hrM321vus6lolaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
